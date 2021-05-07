@@ -10,4 +10,4 @@ the file with name 00 - ****.pdf has my analysis of all the problems of that mod
 
 - Hope you find this repo useful :)
 
-- Link: (Coding Ninjas)[https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms]
+- Link: [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
