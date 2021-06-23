@@ -6,7 +6,7 @@ We shall then start traversing from arr[2]....arr[n-1]
 
 If idx is even, we shall check if the ele matches with EVEN if so then continue
 if it does not match we need to calculate max len so far, it will be max(maxlen, i-start)
-now new start will be (start - 1) as it is zero based indexing. 
+now new start will be (i - 1) as we are atleast sure till prev ele.
 update EVEN as arr[i] and ODD as arr[i-1]
 
 similar for odd, just update EVEN as arr[i-1] and ODD as arr[i]
